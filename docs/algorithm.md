@@ -85,7 +85,7 @@ $$y = f_\theta(x) + \sum_{i=1}^{k} \alpha_i \cdot p_i(g_i(x))$$
 - 当 $\bar{q} > \theta_{quorum}$ 时，全局进入 **Conjugation Burst（接合爆发）** 阶段
 
 **CRISPR Memory Bank（免疫记忆库）**：
-- 全局存储结构，每个条目为 $$(\text{task\_signature}, \text{plasmid\_fingerprint}, \text{gain})$$
+- 全局存储结构，每个条目为 $(\text{task\_signature}, \text{plasmid\_fingerprint}, \text{gain})$
 - task_signature：输入数据分布的统计指纹（均值、方差、类别分布等）
 - plasmid_fingerprint：质粒权重的低维哈希（通过随机投影降维）
 - 当新任务到来时，先检索 CRISPR Bank，直接注入历史验证过的质粒组合
