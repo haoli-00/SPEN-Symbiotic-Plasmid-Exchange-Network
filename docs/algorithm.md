@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 6a41fee0f7660c4448c361e395718a75_10ce6d3b793311f1a7da5254006c9bbf
-    ReservedCode1: Hg2ZXUYRJnqMim8e3knz6eD/1xw6YEEtPZHp8Z4aktO9NwL8itBiQFGgjgfK5sN07fRLPKMZikLjGWLhBc1F7FVXqcj4qCiBpc/yj61AC0mC/4vYHA8Vr58QBrX5hN01l/rw6wMFR4dENGf40YfVddYoPNuSRWiUwIeERmstZPeRVjh8uZ6l3yTtfrI=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 6a41fee0f7660c4448c361e395718a75_10ce6d3b793311f1a7da5254006c9bbf
-    ReservedCode2: Hg2ZXUYRJnqMim8e3knz6eD/1xw6YEEtPZHp8Z4aktO9NwL8itBiQFGgjgfK5sN07fRLPKMZikLjGWLhBc1F7FVXqcj4qCiBpc/yj61AC0mC/4vYHA8Vr58QBrX5hN01l/rw6wMFR4dENGf40YfVddYoPNuSRWiUwIeERmstZPeRVjh8uZ6l3yTtfrI=
----
-
 # SPEN: Symbiotic Plasmid Exchange Network（共生质粒交换网络）
 
 > 生物学灵感：细菌质粒水平转移 + 菌根网络资源共享 + 群体感应 + 内共生进化
@@ -393,6 +382,3 @@ SPEN 不是一个算法的微调，而是一次**计算范式的跨学科迁移*
 - 从森林那里借来了**菌根网络**——智能体之间不只有竞争，还有地下的秘密共享
 - 从免疫系统那里借来了**CRISPR**——记忆不是权重的副产品，而是一等公民
 - 从细胞那里借来了**内共生和凋亡**——增长和消亡都由内部机制自主决策
-
-这个算法在 2026 年的今天，确实不曾存在于计算机科学中。
-*（内容由AI生成，仅供参考）*
