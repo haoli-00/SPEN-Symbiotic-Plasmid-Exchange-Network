@@ -168,7 +168,7 @@ If you use SPEN in your research, please cite:
 @software{spen2026,
   title     = {SPEN: Symbiotic Plasmid Exchange Network},
   year      = {2026},
-  url       = {https://github.com/YOUR_USERNAME/spen},
+  url       = {https://github.com/haoli-00/SPEN-Symbiotic-Plasmid-Exchange-Network},
   note      = {A bio-inspired deep learning paradigm fusing plasmid conjugation,
                quorum sensing, CRISPR memory, mycorrhizal communication,
                endosymbiosis, and apoptosis}
